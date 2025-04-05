@@ -25,6 +25,11 @@ MacArch takes a clean Arch Linux server or desktop and transforms it into a poli
 - 🌐 Internet connection
 - 🔐 `sudo` access
 
+ ##  📧 Contact
+-📧 Email: raghavandinesh11@gmail.com
+-📷 Instagram: @raghavan8506
+ 
+
 ---
 
 ## 📥 Installation
@@ -35,6 +40,3 @@ cd MacArch
 chmod +x macosify-arch-server.sh
 ./macosify-arch-server.sh
 
-📧 Email: raghavandinesh11@gmail.com
-
-📷 Instagram: @raghavan8506
