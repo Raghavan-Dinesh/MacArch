@@ -34,3 +34,7 @@ git clone https://github.com/Raghavan-Dinesh/MacArch.git
 cd MacArch
 chmod +x macosify-arch-server.sh
 ./macosify-arch-server.sh
+
+📧 Email: raghavandinesh11@gmail.com
+
+📷 Instagram: @raghavan8506
