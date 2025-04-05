@@ -37,6 +37,6 @@ MacArch takes a clean Arch Linux server or desktop and transforms it into a poli
 ```bash
 git clone https://github.com/Raghavan-Dinesh/MacArch.git
 cd MacArch
-chmod +x macosify-arch-server.sh
-./macosify-arch-server.sh
+chmod +x MacArch.sh
+./MacArch.sh
 
